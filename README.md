@@ -16,12 +16,12 @@ A simple React weather application that allows users to check the current weathe
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/samarth641/weather.git
 
 2. **Go to the Root File if using Cmd :**
 
    ```bash
-   cd WEATHER 
+   cd weather 
 3. **Install dependencies:**
 
    ```bash
